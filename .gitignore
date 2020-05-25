@@ -1,0 +1,7 @@
+# Project exclude paths
+/node_modules/
+!/lives/.gitkeep
+!/songs/.gitkeep
+/lives/
+/songs/
+*.iml
